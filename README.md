@@ -48,7 +48,7 @@
 - Enter  `cd [project]`
 - type `flutter run` 
 -  chooses the emulator you want to use, I recommend to use Google XL 4 API 30
-<br/>
+
 <b>-- How To Build The APP --</b> 
 - Enter  `cd [project]`
 - Create an upload keystore
@@ -67,7 +67,7 @@ Dependencies Instaled
 - rxdart (for merge stream)
 - cached_network_image (for optimations Images From URL --Chacing Image--)
 
-<br/><br/>
+
 <b>-- How To Install The APP On A Device -- </b>
 -  Connect your Android device to your computer with a USB cable.
 -  Enter  `cd [project]`.
@@ -76,7 +76,7 @@ Dependencies Instaled
 ---
 See My Figma [Click Me](https://www.figma.com/file/hl4ri2kYwstf54IIHttVty/Rexsi-Fita-Test?node-id=0:1)
 ----  
- <br><br>
+ 
   
 <h5>This is video I create to show flow app </h5>
 <a href="https://youtu.be/k2T5GExcen0" target="_blank">
