@@ -55,7 +55,8 @@
 - Type `flutter build appbundle --release`
 - The APP ready for deploy on Google Play Store
 <br/>
-	 <b>-- How To Deploy The APP -- </b>
+
+<b>-- How To Deploy The APP -- </b>
 - Upload your bundle to Google Play to test it. You can use the internal test track, or the alpha or beta channels to test the bundle before releasing it in production.
 - Follow  [these steps to upload your bundle](https://developer.android.com/studio/publish/upload-bundle)  to the Play Store.
 ---
