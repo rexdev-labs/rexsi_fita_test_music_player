@@ -1,0 +1,4 @@
+#Mon Feb 21 05:34:29 WIB 2022
+base.0=/Volumes/RexDev/rexsi_fita_test_music_player/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

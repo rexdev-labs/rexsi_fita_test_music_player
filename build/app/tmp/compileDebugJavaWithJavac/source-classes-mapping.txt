@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/rexsi_fita_fe_mobile_test/BuildConfig.java
+ com.example.rexsi_fita_fe_mobile_test.BuildConfig
