@@ -44,18 +44,18 @@
 <h3>Instructions To Build And Deploy The App</h3>
 
 
--- <b>How To Run The APP </b> -- 
+<b>-- How To Run The APP --</b>
 - Enter  `cd [project]`
 - type `flutter run` 
 -  chooses the emulator you want to use, I recommend to use Google XL 4 API 30
 <br/>
--- <b>How To Build The APP</b> -- 
+<b>-- How To Build The APP --</b> 
 - Enter  `cd [project]`
 - Create an upload keystore
 - Type `flutter build appbundle --release`
 - The APP ready for deploy on Google Play Store
 <br/>
-	-- <b>How To Deploy The APP</b> -- 
+	 <b>-- How To Deploy The APP -- </b>
 - Upload your bundle to Google Play to test it. You can use the internal test track, or the alpha or beta channels to test the bundle before releasing it in production.
 - Follow  [these steps to upload your bundle](https://developer.android.com/studio/publish/upload-bundle)  to the Play Store.
 ---
@@ -67,10 +67,7 @@ Dependencies Instaled
 - cached_network_image (for optimations Images From URL --Chacing Image--)
 
 <br/><br/>
-
-
-
-	-- <b>How To Install The APP On A Device</b> -- 
+<b>-- How To Install The APP On A Device -- </b>
 -  Connect your Android device to your computer with a USB cable.
 -  Enter  `cd [project]`.
 -  Run  `flutter install`.
@@ -78,7 +75,7 @@ Dependencies Instaled
 ---
 See My Figma [Click Me](https://www.figma.com/file/hl4ri2kYwstf54IIHttVty/Rexsi-Fita-Test?node-id=0:1)
 ----  
-  <br><br>
+ <br><br>
   
 <h5>This is video I create to show flow app </h5>
 <a href="https://youtu.be/k2T5GExcen0" target="_blank">
